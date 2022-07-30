@@ -3,6 +3,8 @@
 - 😄 My name is: Ratchanon Rodtaeng
 - ⚡ Student id: 63365328
 - 🔭 I'm currently studying on Faculty of Engineering.
+- 👨‍💻 I'm interested in being a Game Developer.
+- 👍 I'm good at Computer Mathematics and interested in Theory of Computation.
 
 ## Developer Tech
 
@@ -30,6 +32,10 @@
 
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+<a href="#">
+    <img src="svg/dev/languages/c.svg" alt="python" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </P>
